@@ -9,7 +9,7 @@ Gem::Specification.new do |s|
   s.email       = ["andrew.vos@gmail.com"]
   s.homepage    = ""
   s.summary     = %q{Does what it says on the tin}
-  s.description = %q{}
+  s.description = %q{Ruby developers will install any gem}
 
   s.rubyforge_project = "this_will_rm_rf_your_shit"
 
